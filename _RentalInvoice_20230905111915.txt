@@ -1,0 +1,14 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Equipment Rental Invoice
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Invoice Number: 20230905111915
+Customer Name: 
+Rental Date: 2023-09-05 11:19:15
+Equipment Name: Microphone Set
+Brand: Audio Technica
+Total Quantity Rented: 20
+Rental Duration: 7 days
+Total Rental Charge: $7560.00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thank you!
